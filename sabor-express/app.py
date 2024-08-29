@@ -43,6 +43,8 @@ def main():
     exibir_opcoes()
     escolher_opcao()
     
+def new_push_test():
+    print('dummy')
     
 if __name__ == '__main__':
     main()
